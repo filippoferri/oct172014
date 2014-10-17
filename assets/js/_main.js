@@ -23,6 +23,14 @@ var Roots = {
   common: {
     init: function() {
       // JavaScript to be fired on all pages
+      $(window).load(function() {
+
+        // Loader
+		$('#loader').fadeOut('slow');
+		$('#preloader').fadeOut('slow');
+		$('body').css("overflow","visible");
+
+      });
     }
   },
   // Home page

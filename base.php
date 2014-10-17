@@ -7,6 +7,10 @@
     </div>
   <![endif]-->
 
+  <div id="loader">
+	<div id='preloader'></div>
+  </div>
+
   <?php
     do_action('get_header');
     get_template_part('templates/header');
