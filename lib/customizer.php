@@ -27,20 +27,20 @@ function shoestrap_customizer_config() {
 		'logo_image'   => get_template_directory_uri() . '/assets/img/admin-logo.png',
 
 		// The color of active menu items, help bullets etc.
-		'color_active' => '#f15a24',
+		'color_active' => '#ffe000',
 
 		// Color used for secondary elements and desable/inactive controls
-		'color_light'  => '#f87e52',
+		'color_light'  => '#646464',
 
 		// Color used for button-set controls and other elements
 		'color_select' => '#5c6977',
 
 		// Color used on slider controls and image selects
-		'color_accent' => '#e64a3b',
+		'color_accent' => '#ffe000',
 
 		// The generic background color.
 		// You should choose a dark color here as we're using white for the text color.
-		'color_back'   => '#293235',
+		'color_back'   => '#191919',
 
 		// If Kirki is embedded in your theme, then you can use this line to specify its location.
 		// This will be used to properly enqueue the necessary stylesheets and scripts.

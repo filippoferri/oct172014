@@ -28,6 +28,10 @@ h3,
   border-bottom: 1px solid #626262;
 }
 
+.wp-full-overlay-sidebar {
+  border-right: 1px solid #626262;
+}
+
 li.customize-control.customize-control-slider input[type=text] {
   width: 20%;
   float: left;
@@ -96,14 +100,14 @@ li .image.ui-buttonset label.ui-button {
 #customize-theme-controls .control-section .accordion-section-title:hover,
 #customize-theme-controls .control-section.open .accordion-section-title,
 #customize-theme-controls .control-section:hover .accordion-section-title {
-  color: #fff;
+  color: #000;
 }
 
 #customize-theme-controls .control-section .accordion-section-title:focus::after,
 #customize-theme-controls .control-section .accordion-section-title:hover::after,
 #customize-theme-controls .control-section.open .accordion-section-title::after,
 #customize-theme-controls .control-section:hover .accordion-section-title::after {
-  color: #fff;
+  color: #000;
 }
 
 div.kirki-customizer {
