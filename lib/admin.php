@@ -65,7 +65,7 @@ function my_login_logo_url() {
 add_filter( 'login_headerurl', 'my_login_logo_url' );
     //Add Login Url
     function my_login_logo_url_title() {
-        return 'Filobus66';
+        return 'Autoksas';
     }
     add_filter( 'login_headertitle', 'my_login_logo_url_title' );
 
@@ -105,19 +105,19 @@ require_once RWMB_DIR . 'meta-box.php';
 include get_template_directory() .  '/admin/meta-box/config-meta-boxes.php';
 
 // THUMBNAILS TO ADMIN POST VIEW
-add_filter('manage_posts_columns', 'posts_columns', 5);
-add_action('manage_posts_custom_column', 'posts_custom_columns', 5, 2);
-
-function posts_columns($defaults){
-    $defaults['voodoo_post_thumbs'] = __('Thumbs');
-    return $defaults;
-}
-
-function posts_custom_columns($column_name, $id){
-	if($column_name === 'voodoo_post_thumbs'){
-        echo the_post_thumbnail( 'thumbnail' );
-    }
-}
+//add_filter('manage_posts_columns', 'posts_columns', 5);
+//add_action('manage_posts_custom_column', 'posts_custom_columns', 5, 2);
+//
+//function posts_columns($defaults){
+//    $defaults['voodoo_post_thumbs'] = __('Thumbs');
+//    return $defaults;
+//}
+//
+//function posts_custom_columns($column_name, $id){
+//	if($column_name === 'voodoo_post_thumbs'){
+//        echo the_post_thumbnail( 'small' );
+//    }
+//}
 
 //Remove Menu
 function remove_menus(){
