@@ -1,1 +1,35 @@
-.content-info { }
+.content-info {
+  background-color: @gray;
+  color: @gray-lighter;
+  font-size: 13px;
+  padding:0;
+
+  .widget {
+    margin:67.773px auto;
+    h4 { font-size: 41.887px; color: #FFFFFF; margin: 0 0 25.888px 0 }
+  }
+
+  .copyright {
+    border-top: 1px solid rgba(0,0,0,0.35);;
+    padding: 25.888px 0;
+    color: @gray-lighter;
+    text-align: center;
+    a, a:focus { color: #FFFFFF }
+  }
+}
+
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: @screen-sm-min) {
+  .content-info .copyright { text-align: left }
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: @screen-md-min) {
+
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: @screen-lg-min) {
+
+}

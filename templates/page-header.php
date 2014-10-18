@@ -1,5 +1,8 @@
 <div class="page-header">
-  <h1>
-    <?php echo roots_title(); ?>
-  </h1>
+ <img class="bg-header" src="http://lorempixel.com/1059/330/transport" alt="">
+  <div class="container">
+    <h1>
+      <?php echo roots_title(); ?>
+    </h1>
+  </div>
 </div>

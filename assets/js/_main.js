@@ -23,20 +23,42 @@ var Roots = {
   common: {
     init: function() {
       // JavaScript to be fired on all pages
+      // Load Window
       $(window).load(function() {
 
         // Loader
 		$('#loader').fadeOut('slow');
-		$('#preloader').fadeOut('slow');
 		$('body').css("overflow","visible");
 
-      });
+      }); // End Load Window
+
+      //Document ready
+      $(document).ready(function() {
+
+        // Affix
+        if ( $(window).width() >= 1100 )  {
+          $('.banner').affix({
+            offset: { top: 100 }
+          });
+        }
+
+      }); // End Document ready
+
     }
   },
   // Home page
   home: {
     init: function() {
       // JavaScript to be fired on the home page
+
+      //Document ready
+      $(document).ready(function() {
+
+        // Slider
+        $('.slider').slick();
+
+      }); // End Document ready
+
     }
   },
   // About us page, note the change from about-us to about_us.

@@ -48,10 +48,10 @@ function roots_widgets_init() {
   register_sidebar(array(
     'name'          => __('Footer', 'roots'),
     'id'            => 'sidebar-footer',
-    'before_widget' => '<section class="widget %1$s %2$s">',
+    'before_widget' => '<section class="widget %1$s %2$s col-md-4 col-sm-6 data-animated="fadeIn"">',
     'after_widget'  => '</section>',
-    'before_title'  => '<h3>',
-    'after_title'   => '</h3>',
+    'before_title'  => '<h4>',
+    'after_title'   => '</h4>',
   ));
 }
 add_action('widgets_init', 'roots_widgets_init');
