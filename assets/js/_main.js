@@ -41,6 +41,11 @@ var Roots = {
             offset: { top: 100 }
           });
         }
+        // Go to top
+        $('a.go-top').click(function(){
+            $('html, body').animate({scrollTop:0}, 'slow');
+            return false;
+        });
 
       }); // End Document ready
 
@@ -55,7 +60,14 @@ var Roots = {
       $(document).ready(function() {
 
         // Slider
-        $('.slider').slick();
+        //$('.slider').slick();
+        $('.testimonials_slider').slick({
+          dots: false,
+          arrows: false,
+          autoplay:true,
+          autoplaySpeed: 3000,
+          infinite: true
+        });
 
       }); // End Document ready
 

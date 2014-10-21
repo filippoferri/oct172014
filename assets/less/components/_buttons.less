@@ -1,0 +1,31 @@
+// out: null
+
+.slide .btn {
+  background: #191919;
+  color: @brand-primary;
+  text-transform: uppercase;
+  .border-radius(3px);
+  position: relative;
+  &:hover { color: #FFF; background: #3c3c3c;  }
+}
+.slide .btn:before,
+.slide .btn:after {
+	content:'';
+	position:absolute;
+	top:50%;
+	width:102px;
+	height:1px;
+	background-color:#191919;
+}
+.slide .btn:before {right:-124px;}
+.slide .btn:after {left:-124px;}
+
+.btn-active {
+  background: @brand-primary;
+  color: #000;
+  text-transform: uppercase;
+  .border-radius(3px);
+  position: relative;
+  font-size: 16px;
+  &:hover { color: @brand-primary; background: #3c3c3c;  }
+}

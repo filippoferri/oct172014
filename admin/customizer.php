@@ -5,10 +5,16 @@
  */
 function my_custom_section( $wp_customize ) {
 
-	// Create the "My Section" section
-	$wp_customize->add_section( 'my_section', array(
-		'title'    => __( 'My Section', 'translation_domain' ),
-		'priority' => 12
+	// Header
+	$wp_customize->add_section( 'header', array(
+		'title'    => __( 'Header', 'roots' ),
+		'priority' => 10
+	) );
+
+	// Footer
+	$wp_customize->add_section( 'footer', array(
+		'title'    => __( 'Footer', 'roots' ),
+		'priority' => 20
 	) );
 
 }
@@ -21,10 +27,18 @@ function my_custom_setting( $controls ) {
 
 	$controls[] = array(
 		'type'     => 'text',
-		'setting'  => 'my_setting',
-		'label'    => __( 'My custom control', 'translation_domain' ),
-		'section'  => 'my_section',
-		'default'  => 'some-default-value',
+		'setting'  => 'phone',
+		'label'    => __( 'Phone number', 'roots' ),
+		'section'  => 'header',
+		'default'  => 'TEL: 000 123 45678',
+		'priority' => 1,
+	);
+	$controls[] = array(
+		'type'     => 'text',
+		'setting'  => 'copy',
+		'label'    => __( 'Copyright', 'roots' ),
+		'section'  => 'footer',
+		'default'  => 'All rights reserved',
 		'priority' => 1,
 	);
 

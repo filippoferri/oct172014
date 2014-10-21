@@ -1,12 +1,42 @@
+// out: null
+
+
 .content-info {
   background-color: @gray;
   color: @gray-lighter;
   font-size: 13px;
   padding:0;
-
+  position: relative;
+  .go-top {
+    .border-radius(50%);
+    background-color: @gray;
+    display: inline-block;
+    position: absolute;
+    left: 50%;
+    top: -25px;
+    width: 50px;
+    height: 50px;
+    margin-left: -25px;
+    text-align: center;
+    line-height: 30px;
+    z-index: 1030;
+  }
   .widget {
     margin:67.773px auto;
     h4 { font-size: 41.887px; color: #FFFFFF; margin: 0 0 25.888px 0 }
+    li {
+      position:relative;
+      margin-bottom:13px;
+      padding:0 0 15px 0;
+      border-bottom:1px solid rgba(0,0,0,0.35);
+      .transition(color 1s ease-in-out)
+    }
+    li:last-child {border-bottom:0;}
+    li a {
+        font-size:14px;
+        color:#9b9b9b;
+    }
+    li:hover { color: #fff; .transition(color 1s ease-in-out) }
   }
 
   .copyright {

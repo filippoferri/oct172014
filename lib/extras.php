@@ -45,3 +45,35 @@ function comicpress_copyright() {
   }
   return $output;
 }
+
+/**
+ * Testimonials
+ */
+function testimonials_register() {
+
+     $testimonials_labels = array(
+        'name' => __( 'testimonials', 'taxonomy general name', 'roots'),
+        'singular_name' => __( 'Testimonial', 'roots'),
+        'search_items' =>  __( 'Testimonials', 'roots'),
+        'all_items' => __( 'Tutti i testimonials', 'roots'),
+        'parent_item' => __( 'Parent Testimonial', 'roots'),
+        'edit_item' => __( 'Edit Testimonial', 'roots'),
+        'update_item' => __( 'Update Testimonial', 'roots'),
+        'add_new_item' => __( 'Add New Testimonial', 'roots')
+     );
+
+     $args = array(
+            'labels' => $testimonials_labels,
+            'singular_label' => __('Testimonial', 'roots'),
+            'public' => true,
+            'publicly_queryable' => true,
+            'show_ui' => true,
+            'hierarchical' => false,
+            'menu_position' => 6,
+            'menu_icon' => 'dashicons-format-quote',
+            'supports' => array('title')
+       );
+
+    register_post_type( 'testimonials' , $args );
+}
+add_action('init', 'testimonials_register');

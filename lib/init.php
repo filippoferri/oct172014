@@ -48,7 +48,7 @@ function roots_widgets_init() {
   register_sidebar(array(
     'name'          => __('Footer', 'roots'),
     'id'            => 'sidebar-footer',
-    'before_widget' => '<section class="widget %1$s %2$s col-md-4 col-sm-6 data-animated="fadeIn"">',
+    'before_widget' => '<section class="widget %1$s %2$s col-md-4 col-sm-6">',
     'after_widget'  => '</section>',
     'before_title'  => '<h4>',
     'after_title'   => '</h4>',
