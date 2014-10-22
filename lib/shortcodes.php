@@ -14,7 +14,9 @@ function testimonials_shortcode($atts, $content = null) {
     $testimonialHtml .= '
   <!-- TESTIMONIALS -->
   <section class="testimonials">
-    <div class="container">';
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-10 col-lg-offset-1">';
       $args = array(
         'post_type'           => 'testimonials',
         'order'               => 'ASC',
@@ -30,8 +32,10 @@ function testimonials_shortcode($atts, $content = null) {
             $the_query->the_post();
             $the_author = get_post_meta(get_the_ID(), 'cite', true);
             $the_quote = get_post_meta(get_the_ID(), "quote", true);
-            $testimonialHtml .= '<div class="testimonials_content"><p>"</span>'.$the_quote.'"</p></div>';
+            $testimonialHtml .= '<div class="testimonials_content">';
+            $testimonialHtml .= '<p>"'.$the_quote.'"</p>';
             $testimonialHtml .= '<div class="testimonials_author">'.$the_author.'</div>';
+            $testimonialHtml .= '</div>';
         }
         $testimonialHtml .= '
         </div>
@@ -42,6 +46,8 @@ function testimonials_shortcode($atts, $content = null) {
     /* Restore original Post Data */
     wp_reset_postdata();
     $testimonialHtml .= '
+        </div>
+      </div>
     </div>
     <!-- //CONTAINER -->
 
@@ -137,7 +143,7 @@ function services_shortcode($atts, $content = null) {
     $servicesHtml .= '
         <div class="service_item bg3">
           <a href="" alt="">
-            <i class="icon ff-'.$s1_icon.'"></i>
+            <i class="icon ff-'.$s3_icon.'"></i>
             <p>'.$s3_title.'</p>
             <span>'.$s3_desc.'</span>
           </a>

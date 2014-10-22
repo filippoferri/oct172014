@@ -9,7 +9,13 @@
 	right:0;
 	width:100%;
 	padding:0;
-    .navbar { margin: 0 -15px;  }
+    background-color: @gray-base;
+    .navbar {
+      margin-bottom: 0;
+      &.navbar-default {
+        border: 0
+      }
+    }
     .navbar-text { font-size: 16px!important; line-height: 21px; text-transform: uppercase; letter-spacing: 1px }
 
     .navbar-collapse {
@@ -32,16 +38,17 @@
 }
 
 /* Small devices (tablets, 768px and up) */
-@media (min-width: @screen-lg-min) {}
+@media (min-width: @screen-sm-min) {}
 
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: @screen-md-min) {}
 
 /* Large devices (large desktops, 1200px and up) */
-@media (min-width: @screen-sm-min) {
+@media (min-width: @screen-lg-min) {
   .banner {
 	position:absolute;
     top:45px;
+    background-color: transparent;
     .navbar.navbar-default {
       margin: 0;
       border: 0;

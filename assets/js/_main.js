@@ -36,7 +36,7 @@ var Roots = {
       $(document).ready(function() {
 
         // Affix
-        if ( $(window).width() >= 1100 )  {
+        if ( $(window).width() >= 1024 )  {
           $('.banner').affix({
             offset: { top: 100 }
           });

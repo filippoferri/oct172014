@@ -12,7 +12,7 @@
       <a class="navbar-brand hidden-lg" href="<?php echo esc_url(home_url('/')); ?>"><?php bloginfo('name'); ?></a>
       <span class="navbar-text visible-lg-inline-block tk-nimbus-sans-condensed"><span class="icon ff-phone"></span> <?php echo get_theme_mod( 'phone' ); ?></span>
 
-        <div class="logo visible-lg-inline-block"><a href="<?php bloginfo('template_url'); ?>"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/logo-circle.png" alt=""></a></div>
+        <div class="logo visible-lg-inline-block"><a href="<?php bloginfo('url'); ?>"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/logo-circle.png" alt=""></a></div>
     </div>
 
       <nav class="collapse navbar-collapse navbar-right" role="navigation">

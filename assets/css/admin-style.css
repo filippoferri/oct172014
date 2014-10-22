@@ -84,10 +84,10 @@ input[type=radio]:checked:before {
 }
 .wp-core-ui .wp-ui-notification {
   color: #fff;
-  background-color: #9ea476;
+  background-color: #b51818;
 }
 .wp-core-ui .wp-ui-text-notification {
-  color: #9ea476;
+  color: #b51818;
 }
 .wp-core-ui .wp-ui-text-icon {
   color: #f3f2f1;
@@ -104,7 +104,7 @@ input[type=radio]:checked:before {
   color: #222222;
 }
 .view-switch a:hover:before {
-  color: #9ea476;
+  color: #b51818;
 }
 .post-com-count:hover:after {
   border-top-color: #222222;
@@ -114,10 +114,10 @@ input[type=radio]:checked:before {
   background-color: #222222;
 }
 strong .post-com-count:after {
-  border-top-color: #9ea476;
+  border-top-color: #b51818;
 }
 strong .post-com-count span {
-  background-color: #9ea476;
+  background-color: #b51818;
 }
 /* Admin Menu */
 #adminmenuback,
@@ -214,7 +214,7 @@ ul#adminmenu > li.current > a.current:after {
 #adminmenu .awaiting-mod,
 #adminmenu .update-plugins {
   color: #fff;
-  background: #9ea476;
+  background: #b51818;
 }
 #adminmenu li.current a .awaiting-mod,
 #adminmenu li a.wp-has-current-submenu .update-plugins,
