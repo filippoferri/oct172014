@@ -294,37 +294,7 @@ function services($motopressCELibrary) {
                 'cardoor' => 'Car Door'
               )
           ),
-        ), 11, MPCEObject::ENCLOSED, MPCEObject::RESIZE_NONE);
-//        $servicesItemObject = new MPCEObject('service_item', _('Service'), null, array(
-//          's1_title' => array(
-//              'type' => 'text',
-//              'label' => __('Service 1 - Title', 'roots'),
-//              'default' => '',
-//          ),
-//          's1_url' => array(
-//              'type' => 'text',
-//              'label' => __('Service 1 - Url', 'roots'),
-//              'default' => '',
-//          ),
-//          's1_desc' => array(
-//              'type' => 'longtext',
-//              'label' => __('Service 1 - Description', 'roots'),
-//              'default' => '',
-//          ),
-//          's1_icon' => array(
-//              'type' => 'select',
-//              'label' => __('Service 1 - Icon', 'roots'),
-//              'default' => '',
-//              'list' => array(
-//                '' => '--- Select value ---',
-//                'battery' => 'Battery',
-//                'adjust' => 'Adjust',
-//                'water' => 'Water',
-//                'wheel' => 'Wheel',
-//                'cardoor' => 'Car Door'
-//              )
-//          ),
-//        ), 11, MPCEObject::ENCLOSED, MPCEObject::RESIZE_NONE, false);
+        ), 11, MPCEObject::SELF_CLOSED, MPCEObject::RESIZE_NONE);
 
 	// Add this object into any group you need
 	$motopressCELibrary->addObject($servicesObject);

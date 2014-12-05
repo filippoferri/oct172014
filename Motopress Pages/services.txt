@@ -1,0 +1,405 @@
+[mp_row]
+
+[mp_span col="12" classes="motopress-space"]
+
+[mp_space margin="100,none,none,none"]
+
+[/mp_span]
+
+[/mp_row]
+
+[mp_row]
+
+[mp_span col="12"]
+
+[mp_row_inner]
+
+[mp_span_inner col="1" classes="motopress-empty mp-hidden-phone"]
+
+[/mp_span_inner]
+
+[mp_span_inner col="5"]
+
+[mp_text margin="none,none,none,none"]
+
+AUŠINIMO SISTEMOS REMONTAS
+Aušinimo sistema. Jos paskirtis palaikyti optimaliausią automobilio variklio darbo temperatūrą. Ji šilumos perteklių atiduoda į aplinką, apsaugo nuo perkaitimo variklio cilindrų sieneles ir patį variklį nuo nekontroliuojamo savaiminio kuro mišinio užsidegimo.
+
+Automobilių varikliai būna aušinami arba specialiu skysčiu, arba oru. Sistemos, aušinančios variklį skysčiu, paima cirkuliuojantį aušinimo skystį nuo įkaitusių variklio detalių ir radiatoriai atiduoda jį į aplinką. Tokią sistemą sudaro: bloko ir cilindrų galvučių aušinimo ertmės, radiatorius, skysčio siurblys, termostatas, ventiliatorius, jungiamieji vamzdžiai, šiluminio režimo reguliavimo ir temperatūros kontrolės prietaisai.
+
+[/mp_text]
+
+[/mp_span_inner]
+
+[mp_span_inner col="5"]
+
+[mp_image_slider ids="78,81" animation="fade" smooth_height="false" slideshow="true" slideshow_speed="7" animation_speed="3000" control_nav="false"]
+
+[/mp_span_inner]
+
+[mp_span_inner col="1" classes="motopress-empty mp-hidden-phone"]
+
+[/mp_span_inner]
+
+[/mp_row_inner]
+
+[mp_row_inner]
+
+[mp_span_inner col="12" classes="motopress-space"]
+
+[mp_space margin="100,none,none,none"]
+
+[/mp_span_inner]
+
+[/mp_row_inner]
+
+[mp_row_inner mp_style_classes="mp-row-fullwidth motopress-bg-color-dark motopress-vetical-padding-100"]
+
+[mp_span_inner col="1" classes="motopress-empty mp-hidden-phone"]
+
+[/mp_span_inner]
+
+[mp_span_inner col="5"]
+
+[mp_image_slider ids="78,81" animation="fade" smooth_height="false" slideshow="true" slideshow_speed="7" animation_speed="3000" control_nav="false"]
+
+[/mp_span_inner]
+
+[mp_span_inner col="5"]
+
+[mp_text]
+
+IŠMETIMO SISTEMOS REMONTAS
+Su netvarkinga išmetimo sistema galima sėkmingai važinėti, tik sukelia  keletą nepatogumų to automobilio savininkui, o jei labai netvarkinga-dar ir aplinkiniams. Netvarkingos išmetimo sistemos požymiai:
+
+-padidėjęs variklio  triukšmas
+-į automobilio saloną patenkačios išmetimo dujos
+-beldimas į automobilio dugną važiuojant per kelio nelygumus.
+Jei jūsų automobilio duslintuvas išsisandarino, galima jį tiesiog užvirinti. Tačiau dažnai tai tik laikinas sprendimas. Suvirinta vieta po kokio pusmečio vėl išsisandarins.
+
+Dažnai pasitaiko, kad plyšta gofra.
+
+[/mp_text]
+
+[/mp_span_inner]
+
+[mp_span_inner col="1" classes="motopress-empty mp-hidden-phone"]
+
+[/mp_span_inner]
+
+[/mp_row_inner]
+
+[mp_row_inner]
+
+[mp_span_inner col="12" classes="motopress-space"]
+
+[mp_space margin="100,none,none,none"]
+
+[/mp_span_inner]
+
+[/mp_row_inner]
+
+[mp_row_inner]
+
+[mp_span_inner col="1" classes="motopress-empty mp-hidden-phone"]
+
+[/mp_span_inner]
+
+[mp_span_inner col="5"]
+
+[mp_text]
+
+KOMPIUTERINĖ VARIKLIO DIAGNOSTIKA
+Variklio diagnostika - atsakinga ir sudėtinga paslauga, reikalaujanti aukštos automechaniko kvalifikacijos ir šiuolaikinės diagnostinės įrangos. Kaip rodo praktinė patirtis, retas automobilio defektas atsiranda iškart. Dažnai pradiniai požymiai juntami automobilio eksploatacijos metu. Laiku pastebėtas ir nustatytas gedimas apsaugos automobilio elektronines sistemas ir mechanizmus nuo rimtų gedimų, o automobilių savininkai išvengs neplanuotų ir didelių išlaidų.
+
+Variklio diagnostika padeda nustatyti problemines variklio vietas, surasti esamus gedimus ar būsimų gedimų priežastis. Turime visas technines galimybes profesionaliai atlikti variklio diagnostiką. Mūsų autoservisuose atliekama kompiuterinė benzininio variklio diagnostika ir dyzelinio variklio diagnostika. Nustatę gedimus pasiūlome optimalius rastų gedimų remonto būdus, vadovaujantis automobilių gamintojų nurodymais ir technologinėmis instrukcijomis.
+
+[/mp_text]
+
+[/mp_span_inner]
+
+[mp_span_inner col="5"]
+
+[mp_image id="72" size="full" link_type="custom_url" link="#" target="false" align="left"]
+
+[/mp_span_inner]
+
+[mp_span_inner col="1" classes="motopress-empty mp-hidden-phone"]
+
+[/mp_span_inner]
+
+[/mp_row_inner]
+
+[mp_row_inner]
+
+[mp_span_inner col="12" classes="motopress-space"]
+
+[mp_space margin="100,none,none,none"]
+
+[/mp_span_inner]
+
+[/mp_row_inner]
+
+[mp_row_inner mp_style_classes="mp-row-fullwidth motopress-bg-color-dark motopress-vetical-padding-100"]
+
+[mp_span_inner col="1" classes="motopress-empty mp-hidden-phone"]
+
+[/mp_span_inner]
+
+[mp_span_inner col="5"]
+
+[mp_image id="72" size="full" link_type="custom_url" link="#" target="false" align="left"]
+
+[/mp_span_inner]
+
+[mp_span_inner col="5"]
+
+[mp_text]
+
+PAKABOS REMONTAS
+Automobilio pakaba yra labiausiai pažeidžiama automobilio konstrukcijos dalis . Kelio nelygumų sukelti smūgiai pažeidžia jungiamuosius pakabos elementus,veikiančios didelės apkrovos trumpina elastingų elementų eksploatacinį laiką.Nuo pakabos detalių būklės priklauso automobilio eksploatacijos saugumas ir vairavimo komfortas. Rekomenduojama kas 10-15 tūkstančių kilometrų atlikti automobilio  pakabos diagnostiką.
+
+[/mp_text]
+
+[/mp_span_inner]
+
+[mp_span_inner col="1" classes="motopress-empty mp-hidden-phone"]
+
+[/mp_span_inner]
+
+[/mp_row_inner]
+
+[mp_row_inner]
+
+[mp_span_inner col="12" classes="motopress-space"]
+
+[mp_space margin="100,none,none,none"]
+
+[/mp_span_inner]
+
+[/mp_row_inner]
+
+[/mp_span]
+
+[/mp_row]
+
+[mp_row]
+
+[mp_span col="1" classes="motopress-empty mp-hidden-phone"]
+
+[/mp_span]
+
+[mp_span col="5"]
+
+[mp_text]
+
+PRANCŪZIŠKŲ AUTOMOBILIŲ GALINIO TILTO REMONTAS
+Autoservise atliekamas techninis lengvųjų ir komercinės paskirties prancūziškų ir kitų automobilių aptarnavimas. Atliekami važiuoklės, stabdžių sistemos, variklio einamieji darbai, taip pat prancūzams būdingi galinio tilto remontai. Meistrai greitai ir nebrangiai pašalins dažniausiai pasitaikančius gedimus.
+
+[/mp_text]
+
+[/mp_span]
+
+[mp_span col="5"]
+
+[mp_image id="72" size="full" link_type="custom_url" link="#" target="false" align="left"]
+
+[/mp_span]
+
+[mp_span col="1" classes="motopress-empty mp-hidden-phone"]
+
+[/mp_span]
+
+[/mp_row]
+
+[mp_row]
+
+[mp_span col="12" classes="motopress-space"]
+
+[mp_space margin="100,none,none,none"]
+
+[/mp_span]
+
+[/mp_row]
+
+[mp_row mp_style_classes="mp-row-fullwidth motopress-vetical-padding-100 motopress-bg-color-dark"]
+
+[mp_span col="1" classes="motopress-empty mp-hidden-phone"]
+
+[/mp_span]
+
+[mp_span col="5"]
+
+[mp_image id="72" size="full" link_type="custom_url" link="#" target="false" align="left"]
+
+[/mp_span]
+
+[mp_span col="5"]
+
+[mp_text]
+
+STABDŽIŲ SISTEMOS REMONTAS
+Stabdžių sistema - vienas svarbiausių  automobilio saugumo elementų, todėl būtina nuolat atlikti  kvalifikuotą šios sistemos patikrinimą. Stabdžių sistema turi būti tikrinama reguliariai, kaip nurodo automobilio gamintojo eksploatavimo instrukcija. Iškilus menkiausiam netikslumui - būtinas stabdžių remontas. Laiku neatliktas stabdžių sistemos techninis aptranavimas ir stabdžių remontas įtakoja nekokybišką automobilio stabdymą. Dažnai dėl korozijos pažeistų stabdžių apkabos slankiųjų detalių, nelygaus stabdžių disko paviršiaus trinkelės stabdo ne visu savo plotu. Laiku nepakeisto stabdžių skysčio, surudijusių ar įtrūkusių jungiamųjų hidraulinės stabdžių sistemos detalių ekstremaliomis stabdymo sąlygomis gali “prasmegti“ stabdžių pamina.
+
+[/mp_text]
+
+[/mp_span]
+
+[mp_span col="1" classes="motopress-empty mp-hidden-phone"]
+
+[/mp_span]
+
+[/mp_row]
+
+[mp_row]
+
+[mp_span col="12" classes="motopress-space"]
+
+[mp_space margin="100,none,none,none"]
+
+[/mp_span]
+
+[/mp_row]
+
+[mp_row]
+
+[mp_span col="1" classes="motopress-empty mp-hidden-phone"]
+
+[/mp_span]
+
+[mp_span col="5"]
+
+[mp_text]
+
+TRANSMISIJOS REMONTAS
+Daugiausia naudojama mechaninė transmisija. Pagrindinis transmisijos elementas yra pavarų dėžė, kuri keičia transmisijos perdavimo skaičių sujungdama tam tikras krumpliaračių poras. Mechaninė transmisija yra pati paprasčiausia, patikima,pakankamai pigi.
+
+Automobilio transmisija perduoda variklio sukimo momentą varantiesiems ratams ir keičia šio momento dydį-keičia ratų sukimosi kryptį nekeisdama variklio sukimosi krypties.
+
+[/mp_text]
+
+[/mp_span]
+
+[mp_span col="5"]
+
+[mp_image id="72" size="full" link_type="custom_url" link="#" target="false" align="left"]
+
+[/mp_span]
+
+[mp_span col="1" classes="motopress-empty mp-hidden-phone"]
+
+[/mp_span]
+
+[/mp_row]
+
+[mp_row]
+
+[mp_span col="12" classes="motopress-space"]
+
+[mp_space margin="100,none,none,none"]
+
+[/mp_span]
+
+[/mp_row]
+
+[mp_row mp_style_classes="mp-row-fullwidth motopress-vetical-padding-100 motopress-bg-color-dark"]
+
+[mp_span col="1" classes="motopress-empty mp-hidden-phone"]
+
+[/mp_span]
+
+[mp_span col="5"]
+
+[mp_image id="72" size="full" link_type="custom_url" link="#" target="false" align="left"]
+
+[/mp_span]
+
+[mp_span col="5"]
+
+[mp_text]
+
+VARIKLIO REMONTAS
+Variklis-sudėtingas įrenginys. Variklis cilindruose sudegančių degalų šiluminę energiją paverčia mechanine energija,kurią alkūninis velenas perduoda transmisijai,taip priversdams automobilį judėti. Šiuolaikiniuose automobiliuose montuojami dviejų tipų varikliai: dyzeliniai ir benzininiai.
+
+Vidaus degimo variklis ( benzininis ir dyzelinis)sudarytas iš mechanizmų( alkūninio veleno ir dujų dujų skirstymo) ir sistemų: aušinimo,tepimo,maitinimo,uždegimo bei paleidimo,atliekančių skirtingas funkcijas,tačiau užtikrinančias stabilų automobilio variklio darbą.
+
+ 
+
+[/mp_text]
+
+[/mp_span]
+
+[mp_span col="1" classes="motopress-empty mp-hidden-phone"]
+
+[/mp_span]
+
+[/mp_row]
+
+[mp_row]
+
+[mp_span col="12" classes="motopress-space"]
+
+[mp_space margin="100,none,none,none"]
+
+[/mp_span]
+
+[/mp_row]
+
+[mp_row]
+
+[mp_span col="12"]
+
+[mp_row_inner]
+
+[mp_span_inner col="12"]
+
+[mp_heading]
+
+LIMUZINŲ REMONTAS
+[/mp_heading]
+
+[/mp_span_inner]
+
+[/mp_row_inner]
+
+[mp_row_inner]
+
+[mp_span_inner col="3"]
+
+[mp_image id="72" size="full" link_type="custom_url" link="#" target="false" align="left"]
+
+[/mp_span_inner]
+
+[mp_span_inner col="3"]
+
+[mp_image id="72" size="full" link_type="custom_url" link="#" target="false" align="left"]
+
+[/mp_span_inner]
+
+[mp_span_inner col="3"]
+
+[mp_image id="72" size="full" link_type="custom_url" link="#" target="false" align="left"]
+
+[/mp_span_inner]
+
+[mp_span_inner col="3"]
+
+[mp_image id="72" size="full" link_type="custom_url" link="#" target="false" align="left"]
+
+[/mp_span_inner]
+
+[/mp_row_inner]
+
+[/mp_span]
+
+[/mp_row]
+
+[mp_row]
+
+[mp_span col="12" classes="motopress-space"]
+
+[mp_space margin="100,none,none,none"]
+
+[/mp_span]
+
+[/mp_row]
